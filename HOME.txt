@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laundry Matt. Home</title>
+</head>
+<body>
+    <header>
+        <img src = "images/logo.png.jpeg" alt="Laundry Matt Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="enquires.html">Enquires</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Welcome to Laundry Matt</h1>
+        <h3>Here for you always</h3>
+        <p>Your Trusted Laundry Service Provider. Always there to support you in what ever you need. So don;t be afraid to reach out to us nad keep it mind that here you get a free delivery. </p>
+        <p>Your trusted laundry service provider where you get everything you need and more. Thank you for putting your trust in us!</p>
+
+        <table width = "100%" border="1">
+            <tr>
+                <th>Service</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Regular Wash</td>
+                <td>Standard washing service for all types of clothes.</td>
+            </tr>
+            <tr>
+                <td>Dry Cleaning</td>
+                <td>Professional dry cleaning for delicate items.</td>
+            </tr>
+        </table>
+    </main>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laundry Matt. About Us</title>
+</head>
+<body>
+    <header>
+        <img src = "images/logo.png.jpeg" alt="Laundry Matt Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="enquires.html">Enquires</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Welcome to Laundry Matt</h1>
+        <p>Your trusted laundry service provider where you get everything you need and more. Thank you for putting your trust in us. We are happy to assist you with everything that you want. We offer services like laundry, dry cleaning and free delivery everywhere and anywhere!</p>
+        <p>We are a team of professionals dedicated to providing the best laundry services to our customers. We are based in Midrand, Kempton park and Pretoria. Not only that but we do deliver to several surrounding  areas such as Benoni, Johannesburg and many more.</p>
+    </main>
+</body>
+</html>

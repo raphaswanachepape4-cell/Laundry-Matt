@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laundry Matt. Contact Us</title>
+</head>
+<body>
+    <header>
+        <img src = "images/logo.png.jpeg" alt="Laundry Matt Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="enquires.html">Enquires</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Contact Us</h1>
+        <div class="contact information">
+            <h3>Midrand Location</h3>
+            <p><strong>Phone:</strong> +27 67 456-7890</p>
+            <p><strong>Email:</strong> info@laundrymattMidrand.com</p>
+            <p><strong>Address:</strong> 1685 mount Street, Midrand, CC 12345</p>
+            <p><strong>Business Hours:</strong> Mon-Fri: 9:00 AM - 6:00 PM<br>Sunday: 10:00 AM - 3:00 PM</p>
+
+
+            <h3>Kempton Park Location</h3>
+            <p><strong>Phone:</strong> +27 09 874 5882</p>
+            <p><strong>Email:</strong> info@laundrymattKemptonpark.com</p>
+            <p><strong>Address:</strong> 1619 mount Street, Kempton Park, 9834</p>
+            <p><strong>Business Hours:</strong> Mon-Sat: 9:00 AM - 6:00 PM<br>Sunday: 10:00 AM - 4:00 PM</p>
+
+
+            <h3>Pretoria Location</h3>
+            <p><strong>Phone:</strong> +27 12 345 6789</p>
+            <p><strong>Email:</strong> info@laundrymattPretoria.com</p>
+            <p><strong>Address:</strong> 0083 mount Street, Pretoria, 66 region</p>
+            <p><strong>Business Hours:</strong> Mon-Fri: 9:00 AM - 6:00 PM<br>Saturday: 10:00 AM - 4:00 PM</p>
+
+
+        </div>
+    </main>
+</body>
+</html>
